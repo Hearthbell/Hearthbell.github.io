@@ -5,6 +5,11 @@ body{
     color:#839496
 }
 
+h1{
+    color: #b58900;
+    text-align: center;
+}
+
 .assignment {
     display:flex;
     padding:10px;
@@ -40,8 +45,3 @@ a:link {
     background-color: transparent;
     text-decoration: underline;
   }
-
-h1{
-    color: #b58900;
-    text-align: center;
-}
