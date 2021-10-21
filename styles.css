@@ -17,6 +17,30 @@ body{
     padding:10px;
 }
 
+a:link {
+    color:#2aa198;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #d33682;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #859900;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #b58900;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
 h1{
     color: #b58900;
     text-align: center;
